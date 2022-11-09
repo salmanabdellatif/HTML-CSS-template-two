@@ -782,6 +782,7 @@ header .container nav .form i {
   border: 1px solid var(--main-color);
   width: fit-content;
   margin: 30px auto;
+  color: var(--main-color);
 }
 .pricing .contact-text {
   text-align: center;
@@ -977,7 +978,7 @@ header .container nav .form i {
   width: fit-content;
   margin: 20px auto;
 }
-.footer .social i {
+.footer .social-icons i {
   padding: 10px 15px;
 }
 .footer p.copyright {
